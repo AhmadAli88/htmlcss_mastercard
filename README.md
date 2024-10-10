@@ -1,1 +1,1 @@
-![Alt text](./src/assets/Capture.PNG)
+![Alt text](./assets/Capture.PNG)
